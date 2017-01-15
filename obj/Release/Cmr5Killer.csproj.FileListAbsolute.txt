@@ -1,0 +1,8 @@
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\bin\Release\Cmr5Killer.exe.config
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\bin\Release\Cmr5Killer.exe
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\bin\Release\Cmr5Killer.pdb
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Release\Cmr5Killer.Form1.resources
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Release\Cmr5Killer.Properties.Resources.resources
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Release\Cmr5Killer.csproj.GenerateResource.Cache
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Release\Cmr5Killer.exe
+C:\Users\Bon\Documents\Visual Studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Release\Cmr5Killer.pdb

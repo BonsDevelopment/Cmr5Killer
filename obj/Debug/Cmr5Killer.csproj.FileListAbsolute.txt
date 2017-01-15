@@ -1,0 +1,9 @@
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\bin\Debug\Cmr5Killer.exe.config
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\bin\Debug\Cmr5Killer.exe
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\bin\Debug\Cmr5Killer.pdb
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Debug\Cmr5Killer.csprojResolveAssemblyReference.cache
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Debug\Cmr5Killer.Form1.resources
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Debug\Cmr5Killer.Properties.Resources.resources
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Debug\Cmr5Killer.csproj.GenerateResource.Cache
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Debug\Cmr5Killer.exe
+c:\users\bon\documents\visual studio 2015\Projects\Cmr5Killer\Cmr5Killer\obj\Debug\Cmr5Killer.pdb
